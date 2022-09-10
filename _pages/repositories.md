@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: my repositories
+title: repositories
 description: Below are some of my repositories from school projects, volunteer work, and freelance work.
 nav: true
 nav_order: 3
