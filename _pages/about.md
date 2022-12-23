@@ -6,7 +6,7 @@ permalink: /
 social: true  # includes social icons at the bottom of the page
 ---
 \
-Hi! I'm Jasmine, a rising senior at MIT majoring in computer science. 
+Hi! I'm Jasmine, a senior at MIT majoring in computer science. 
 
 On this website you will find... 
 
