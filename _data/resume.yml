@@ -5,12 +5,15 @@
       institution: B.S. Computer Science, GPA 4.8/5.0
       year: 2019-2023
       description:
-        - title: Relevant Coursework
+        - title: Currently Enrolled
+          contents:
+            - Distributed Systems
+            - Computer Systems Security
+            - Computer Architecture
+        - title: CS Coursework
           contents:
             - Software Construction
-            - Data Structures
-            - Algorithms
-            - Computer Systems
+            - Data Structures & Algorithms
             - Dynamic Computer Language Engineering
             - Web Design + Development
         - title: Other Coursework
@@ -25,8 +28,9 @@
     - title: Languages
       items: 
         - Python
-        - Javascript
         - C/C++
+        - Go
+        - Javascript
         - Java
         - GraphQL
     - title: Platforms/Apps
@@ -130,10 +134,11 @@
   type: time_table
   contents:
     - title: Red Cross Volunteer
-      institution: Volunteer Services Team
+      institution: Volunteer Services Team & Roster Support Team
       year: 01/22-Present
       description:
         - <a href="/projects/">Automate volunteer assigning process</a> to improve accuracy and efficiency.
+        - Processed and analyzed data for miscellaneous projects.
         
     - title: MIT Women's Openweight Rowing
       institution: Coxswain
