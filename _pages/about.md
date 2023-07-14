@@ -6,14 +6,14 @@ permalink: /
 social: true  # includes social icons at the bottom of the page
 ---
 \
-Hi! I'm Jasmine, a senior at MIT majoring in computer science. 
+Hi! I'm Jasmine, a recent MIT CS graduate. 
 
 On this website you will find... 
 
-* Independent [projects](/projects/) from classes, volunteering, and freelance work. 
 * My [resume](/resume/), extended and abbreviated versions. 
+* Independent [projects](/projects/) from classes, volunteering, and freelance work. 
 
 
 \
-My email is **jasminew**[at]**mit**[dot]**edu**, and other links are found below.
+My email is **jasmine2000**[at]**gmail**[dot]**com**. Other links are found below.
 
